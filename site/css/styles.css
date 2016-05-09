@@ -10,6 +10,7 @@ body {
   background-color: #211F22;
   border-radius: 0;
   border: 0;
+  height: 100px;
 }
 
 #logo-img {
@@ -165,7 +166,7 @@ body {
 @media (min-width: 1200px){
    .container .jumbotron {
     background: url('../images/jumbotron_1200.jpg') no-repeat;
-    height: 675px;
+    height: 200px;
     
   }
 
